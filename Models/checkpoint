@@ -1,0 +1,2 @@
+model_checkpoint_path: "Speech_Model"
+all_model_checkpoint_paths: "Speech_Model"
