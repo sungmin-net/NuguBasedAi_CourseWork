@@ -42,7 +42,7 @@ import javax.net.ssl.TrustManagerFactory;
 
 public class SyncNodeMain {
 
-    private static final String NODE_NAME = "Dev1";
+    private static final String NODE_NAME = "Dev3";
     private static final String MODEL_FILE_SUFFIX = ".mdl";
     private static final String BROADCAST_ADDRESS = "192.168.0.255"; // TODO adjust this if needed
     private static final int BROADCAST_PORT = 50000;
